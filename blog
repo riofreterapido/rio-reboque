@@ -240,7 +240,7 @@
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitários</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -397,7 +397,7 @@
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -660,7 +660,7 @@
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitários</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -774,7 +774,7 @@ Serviço: ${service}
 Descrição: ${description}`;
     
     // Open WhatsApp
-    const whatsappUrl = `https://wa.me/5521999999999?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/5521984942888?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     
     // Show success message
@@ -1244,7 +1244,7 @@ console.log('ReboqueFast RJ - Site carregado com sucesso!');
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -1381,7 +1381,7 @@ console.log('ReboqueFast RJ - Site carregado com sucesso!');
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -1655,7 +1655,7 @@ console.log('ReboqueFast RJ - Site carregado com sucesso!');
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -1672,7 +1672,7 @@ console.log('ReboqueFast RJ - Site carregado com sucesso!');
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -1696,7 +1696,7 @@ console.log('ReboqueFast RJ - Site carregado com sucesso!');
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://reboquefast.com.br/</loc>
+        <loc>https://https://rioreboque.com.br/</loc>
         <lastmod>2024-08-24</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
@@ -2543,7 +2543,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -2680,7 +2680,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -2697,7 +2697,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -2817,7 +2817,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -2834,7 +2834,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -2954,7 +2954,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3091,7 +3091,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3228,7 +3228,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3245,7 +3245,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888"> (21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -3364,7 +3364,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3381,7 +3381,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -3501,7 +3501,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3518,7 +3518,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -3638,7 +3638,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3655,7 +3655,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -3775,7 +3775,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3792,7 +3792,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -3912,7 +3912,7 @@ html {
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -3929,7 +3929,7 @@ html {
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -4100,11 +4100,11 @@ html {
                 <h1>Reboque 24h no Rio de Janeiro</h1>
                 <p>Atendimento rápido e seguro para carros, motos e veículos pesados em toda a cidade do Rio de Janeiro. Chegamos até você em até 30 minutos!</p>
                 <div class="hero-buttons">
-                    <a href="https://wa.me/5521999999999?text=Olá! Preciso de um reboque urgente. Podem me ajudar?" class="btn btn-primary" target="_blank">
+                    <a href="https://wa.me/5521984942888?text=Olá! Preciso de um reboque urgente. Podem me ajudar?" class="btn btn-primary" target="_blank">
                         <i class="fab fa-whatsapp"></i>
                         WhatsApp
                     </a>
-                    <a href="tel:+5521999999999" class="btn btn-secondary">
+                    <a href="tel:+5521984942888" class="btn btn-secondary">
                         <i class="fas fa-phone"></i>
                         Ligar Agora
                     </a>
@@ -4357,14 +4357,14 @@ html {
                         <i class="fas fa-phone"></i>
                         <div>
                             <h4>Telefone</h4>
-                            <p><a href="tel:+5521999999999">(21) 98494-2888</a></p>
+                            <p><a href="tel:+5521984942888">(21) 98494-2888</a></p>
                         </div>
                     </div>
                     <div class="contact-item">
                         <i class="fab fa-whatsapp"></i>
                         <div>
                             <h4>WhatsApp</h4>
-                            <p><a href="https://wa.me/5521999999999" target="_blank">(21) 98494-2888</a></p>
+                            <p><a href="https://wa.me/5521984942888" target="_blank">(21) 98494-2888</a></p>
                         </div>
                     </div>
                     <div class="contact-item">
@@ -4398,7 +4398,7 @@ html {
                                 <option value="">Tipo de serviço</option>
                                 <option value="carro">Reboque de Carro</option>
                                 <option value="moto">Reboque de Moto</option>
-                                <option value="pesado">Reboque Pesado</option>
+                                <option value="pesado">Reboque Utilitário</option>
                                 <option value="socorro">Auto Socorro</option>
                             </select>
                         </div>
@@ -4428,7 +4428,7 @@ html {
                     <ul>
                         <li><a href="#servicos">Reboque de Carros</a></li>
                         <li><a href="#servicos">Reboque de Motos</a></li>
-                        <li><a href="#servicos">Reboque Pesado</a></li>
+                        <li><a href="#servicos">Reboque Utilitário</a></li>
                         <li><a href="#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -4444,8 +4444,8 @@ html {
                 <div class="footer-section">
                     <h4>Contato</h4>
                     <ul>
-                        <li><a href="tel:+5521999999999">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@reboquefast.com.br">contato@reboquefast.com.br</a></li>
+                        <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -4457,7 +4457,7 @@ html {
     </footer>
 
     <!-- WhatsApp Float Button -->
-    <a href="https://wa.me/5521999999999?text=Olá! Preciso de um reboque urgente. Podem me ajudar?" class="whatsapp-float" target="_blank">
+    <a href="https://wa.me/5521984942888?text=Olá! Preciso de um reboque urgente. Podem me ajudar?" class="whatsapp-float" target="_blank">
         <i class="fab fa-whatsapp"></i>
     </a>
 
@@ -4593,7 +4593,7 @@ reboque-site/
 - Animação de pulso no botão
 
 ### Configuração
-- Número: +5521999999999 (exemplo)
+- Número: +5521984942888 (exemplo)
 - Mensagem padrão: "Olá! Preciso de um reboque urgente. Podem me ajudar?"
 
 ## Como Usar
@@ -4821,7 +4821,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -4958,7 +4958,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -4975,7 +4975,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -5095,7 +5095,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -5112,7 +5112,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -5232,7 +5232,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -5249,7 +5249,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -5369,7 +5369,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -5386,7 +5386,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
@@ -5506,7 +5506,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <ul>
                         <li><a href="index.html#servicos">Reboque de Carros</a></li>
                         <li><a href="index.html#servicos">Reboque de Motos</a></li>
-                        <li><a href="index.html#servicos">Reboque Pesado</a></li>
+                        <li><a href="index.html#servicos">Reboque Utilitário</a></li>
                         <li><a href="index.html#servicos">Auto Socorro</a></li>
                     </ul>
                 </div>
@@ -5523,7 +5523,7 @@ Para suporte técnico ou customizações, entre em contato através do sistema.
                     <h4>Contato</h4>
                     <ul>
                         <li><a href="tel:+5521984942888">(21) 98494-2888</a></li>
-                        <li><a href="mailto:contato@rioreboque.com.br">contato@rioreboque.com.br</a></li>
+                        <li><a href="mailto:rioreboque24hs@gmail.com">rioreboque24hs@gmail.com</a></li>
                         <li>24 horas por dia</li>
                     </ul>
                 </div>
