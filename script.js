@@ -54,7 +54,7 @@ Serviço: ${service}
 Descrição: ${description}`;
     
     // Open WhatsApp
-    const whatsappUrl = `https://wa.me/5521984942888?text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://wa.me/5521999999999?text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     
     // Show success message
@@ -285,5 +285,5 @@ document.addEventListener('keydown', (e) => {
     }
 });
 
-console.log('Rio Reboque - Site carregado com sucesso!');
+console.log('ReboqueFast RJ - Site carregado com sucesso!');
 
